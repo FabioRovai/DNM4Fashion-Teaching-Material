@@ -1,5 +1,7 @@
 # Demystifying-new-Media-for-Fashion
 
+Spring 2021, BA (Hons) Hair and Make-up for Fashion | UAL
+
 Generative adversarial network for image generation
 
 https://colab.research.google.com/drive/1LosNwlvBq98DjTCOsbaZhTttJ5TWqLYK?usp=sharing
